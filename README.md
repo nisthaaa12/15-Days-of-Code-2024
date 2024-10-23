@@ -4,7 +4,7 @@
 
 October,23,2022
 
-  I have solved first 5 questions from CP31 TLE Sheet
+  I have solved first 5 questions from CP31 TLE Sheet and participated in codechef contest
 
 - Question 1(Halloumi Boxes)
   https://codeforces.com/submissions/nissthaa

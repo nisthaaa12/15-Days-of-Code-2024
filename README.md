@@ -4,7 +4,7 @@
 
 October,23,2024
 
-  I have solved first 5 questions from CP31 TLE Sheet and participated in codechef contest
+I have solved first 5 questions from CP31 TLE Sheet and participated in codechef contest
 
 - Question 1(Halloumi Boxes)
   https://codeforces.com/submissions/nissthaa
@@ -27,7 +27,7 @@ October,23,2024
 
 October,24,2024
 
-  I have solved 5 questions from CP31 TLE Sheet and participated in codeforces contest and started with WebD
+I have solved 5 questions from CP31 TLE Sheet and participated in codeforces contest and started with WebD
 
 - Question 1( Doremy's Paint 3)(rated-800)
   https://codeforces.com/submissions/nissthaa
@@ -50,7 +50,7 @@ October,24,2024
 
 October,25,2024
 
-  I have solved first 3 questions from CP31 TLE Sheet and started HTML
+I have solved 3 questions from CP31 TLE Sheet and started HTML
 
 - Question 1(Target Practice)(rated-800)
   https://codeforces.com/submissions/nissthaa
@@ -59,7 +59,7 @@ October,25,2024
 - Question 3(Vasilije in Cacak)(rated-900)
   https://codeforces.com/submissions/nissthaa
 
-i have also started watching youtube videos for WebD (by love babbar)
+I have also started watching youtube videos for WebD (by love babbar)
 
 (introduction videos)
 - what is full stack WebD?
@@ -76,5 +76,25 @@ html one shot
   w3schools(https://www.w3schools.com/html/html_links_bookmarks.asp)
   mdn docs (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
+### Day 4
 
+October,26,2024
 
+I have solved first 3 questions from CP31 TLE Sheet
+
+- Question 1(Jellyfish and Undertale)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+- Question 2(Sequence Game)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+- Question 3(Buttons)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+HTML:
+
+- Emmet, Div Tag, Lists and Anchor Tag Variations:
+  https://www.youtube.com/watch?v=e1X3WPoETsk&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD&index=6
+- HTML Tables: Rows, Columns, and Advanced Attributes | MERN Stack Web Development : 
+  https://youtu.be/VjCHupej12U?si=FFw4Va_WG35GYuj4
+- I am also reffering documentation from w3Schools and mdn docs :
+  https://www.w3schools.com/html/html_lists_other.asp
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a

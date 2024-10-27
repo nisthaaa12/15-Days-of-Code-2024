@@ -80,7 +80,7 @@ html one shot
 
 October,26,2024
 
-I have solved first 3 questions from CP31 TLE Sheet
+I have solved 3 questions from CP31 TLE Sheet
 
 - Question 1(Jellyfish and Undertale)(rated-900)
   https://codeforces.com/submissions/nissthaa
@@ -98,3 +98,27 @@ HTML:
 - I am also reffering documentation from w3Schools and mdn docs :
   https://www.w3schools.com/html/html_lists_other.asp
   https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+### Day 5
+
+October,27,2024
+
+I have solved 2 questions from CP31 TLE Sheet
+
+- Question 1(Array Coloring)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2( Desorting)
+  https://codeforces.com/submissions/nissthaa
+
+
+HTML:
+
+- today i have learned about html forms ...
+  i have reffered to these two videos:
+  - Forms in HTML: https://youtu.be/dYrwawDa92U?si=Eru7FtaDCgatZTnY
+  - HTML Forms: From Beginner to Pro : https://youtu.be/GmHC1oaK9Ts?si=9ztxmcI4X8i4_GwD
+
+- I am also reffering documentation from w3Schools and mdn docs :
+  - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form\
+  - https://www.w3schools.com/html/html_forms.asp

@@ -122,3 +122,30 @@ HTML:
 - I am also reffering documentation from w3Schools and mdn docs :
   - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form\
   - https://www.w3schools.com/html/html_forms.asp
+
+### Day 6
+
+October,28,2024
+
+I have solved 3 questions from CP31 TLE Sheet
+
+- Question 1(Make It Zero)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Longest Divisors Interval)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Forbidden Integer)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+i have watched lecture on binary tree and solved the following problems:
+
+- lecture:
+  https://youtu.be/nHMQ33LZ6oA?si=XDij3IzFWTk3Zjb8
+  
+- problems:
+  - Height of Tree: https://www.geeksforgeeks.org/problems/height-of-binary-tree/1
+  - Diameter of Tree: https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+  - Balanced Tree or Not: https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1
+  - Tree Identical or Not: https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
+  - Sum Tree or Not: https://www.geeksforgeeks.org/problems/sum-tree/1

@@ -149,3 +149,22 @@ i have watched lecture on binary tree and solved the following problems:
   - Balanced Tree or Not: https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1
   - Tree Identical or Not: https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
   - Sum Tree or Not: https://www.geeksforgeeks.org/problems/sum-tree/1
+
+### Day 7
+
+October,29,2024
+
+I have solved 3 questions from CP31 TLE Sheet
+
+- Question 1(Balanced Round)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Comparison String)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Grasshopper on a Liner)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+Binary Tree:
+
+-zigzag Traversal : https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1

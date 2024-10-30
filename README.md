@@ -167,4 +167,24 @@ I have solved 3 questions from CP31 TLE Sheet
 
 Binary Tree:
 
--zigzag Traversal : https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+- zigzag Traversal : https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+
+### Day 8
+
+October,30,2024
+
+- Problem(Unit Array)
+  https://codeforces.com/submissions/nissthaa
+
+- HTML:
+  
+  lectures :
+
+  - HTML Resume Project : https://youtu.be/uNcMKFkAKuw?si=p8Gn8mzkpQwER8qc
+  - Media tags, Modern HTML and iframes : https://youtu.be/fb4rgYbi84c?si=5gvYI696xGD9jmte
+  - EO && Head tag in HTML || Favicon, Title, Meta tags : https://youtu.be/0ZGAKHoVFs0?si=vqLu0cqGWCAKnTIa
+
+  Docs :
+  
+  - loading=lazy : https://www.w3schools.com/tags/att_img_loading.asp
+  

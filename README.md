@@ -188,3 +188,29 @@ October,30,2024
   
   - loading=lazy : https://www.w3schools.com/tags/att_img_loading.asp
   
+### Day 9
+
+November,2,2024
+
+I have solved 3 questions from CP31 TLE Sheet
+
+- Question 1(Twin Permutations)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Odd Queries)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Calculating Function)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+started CSS today:
+
+- lecture:
+  - Mastering CSS: Inline, Internal, and External Stylesheets : https://youtu.be/tU4xz1r_aE8?si=4V73o_CXwCvY0g6_
+  - CSS Typography: Fonts, Colors && Developer tools : https://youtu.be/XLLluxLg_Xc?si=NctgiR92acQNDtgw
+
+- docs:
+  - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+  - https://www.w3schools.com/css/
+
+- i gave codeforcea contest today and solved first two problems.

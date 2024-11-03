@@ -135,7 +135,7 @@ I have solved 3 questions from CP31 TLE Sheet
 - Question 2(Longest Divisors Interval)(rated-900)
   https://codeforces.com/submissions/nissthaa
 
-- Question 2(Forbidden Integer)(rated-800)
+- Question 3(Forbidden Integer)(rated-800)
   https://codeforces.com/submissions/nissthaa
 
 i have watched lecture on binary tree and solved the following problems:
@@ -162,7 +162,7 @@ I have solved 3 questions from CP31 TLE Sheet
 - Question 2(Comparison String)(rated-900)
   https://codeforces.com/submissions/nissthaa
 
-- Question 2(Grasshopper on a Liner)(rated-800)
+- Question 3(Grasshopper on a Liner)(rated-800)
   https://codeforces.com/submissions/nissthaa
 
 Binary Tree:
@@ -200,10 +200,11 @@ I have solved 3 questions from CP31 TLE Sheet
 - Question 2(Odd Queries)(rated-900)
   https://codeforces.com/submissions/nissthaa
 
-- Question 2(Calculating Function)(rated-800)
+- Question 3(Calculating Function)(rated-800)
   https://codeforces.com/submissions/nissthaa
 
-started CSS today:
+
+CSS:
 
 - lecture:
   - Mastering CSS: Inline, Internal, and External Stylesheets : https://youtu.be/tU4xz1r_aE8?si=4V73o_CXwCvY0g6_
@@ -213,4 +214,33 @@ started CSS today:
   - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
   - https://www.w3schools.com/css/
 
-- i gave codeforcea contest today and solved first two problems.
+- i gave codeforces contest today and solved first two problems.
+
+### Day 10
+
+November,3,2024
+
+I have solved 4 questions from CP31 TLE Sheet
+
+- Question 1(Mainak and Array)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Blank Space)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 3(NIT Destroys the Universe)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 4(Coins)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+
+CSS :
+
+- lecture:
+  - CSS Display Property in Depth: Understanding Inline, Block, and Inline-Block : https://youtu.be/YjWktudqGN4?si=IrdgXbnkLsC__eFL
+  - CSS "Box Model" : https://youtu.be/xN8DPjcybpM?si=ThLXwosOxqB4Pob4
+
+- docs:
+  - https://www.w3schools.com/css/
+  - https://www.w3schools.com/cssref/pr_class_display.php

@@ -244,3 +244,25 @@ CSS :
 - docs:
   - https://www.w3schools.com/css/
   - https://www.w3schools.com/cssref/pr_class_display.php
+
+### Day 11
+
+November,4,2024
+
+I have solved 2 questions from CP31 TLE Sheet
+
+- Question 1(AvtoBus)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Walking Master)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+
+CSS :
+
+- lecture:
+  - CSS Position Property: Static, Relative, Absolute, Fixed, and Sticky: https://youtu.be/9BlNJFIMUrY?si=IMBZvvl_n0vPjVjI
+  - CSS Size Units in Depth: Unlocking the Power of px, %, vw, vh, em, and rem: https://youtu.be/APhPNDikwRE?si=LKmR5bfccIpFkyzK
+- docs:
+  - https://www.w3schools.com/css/
+  - https://www.w3schools.com/css/css_positioning.asp

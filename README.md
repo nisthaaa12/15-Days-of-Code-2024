@@ -266,3 +266,28 @@ CSS :
 - docs:
   - https://www.w3schools.com/css/
   - https://www.w3schools.com/css/css_positioning.asp
+
+### Day 12
+
+November,5,2024
+
+I have solved 3 questions from CP31 TLE Sheet
+
+- Question 1(Deletive Editing)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(Not Dividing)(rated-900)
+  https://codeforces.com/submissions/nissthaa
+
+- Question 2(We Need the Zero)(rated-800)
+  https://codeforces.com/submissions/nissthaa
+
+
+CSS :
+
+- lecture:
+  - CSS Float, Clear, and Overflow: https://youtu.be/eMrjjsnQUDw?si=qT-YgQGC6kmx49lk
+
+- docs:
+  - https://www.w3schools.com/css/
+ 

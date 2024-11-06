@@ -290,4 +290,18 @@ CSS :
 
 - docs:
   - https://www.w3schools.com/css/
- 
+
+### Day 13
+
+November,6,2024
+
+CSS :
+
+- lecture:
+  - FLEXBOX: https://youtu.be/tN12g5QUIqg?si=w8Exbw4s98iVdYqk
+
+- docs:
+  - https://www.w3schools.com/css/
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
+
+- I gave contest in codechef and solved 3 problems

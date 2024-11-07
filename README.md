@@ -305,3 +305,29 @@ CSS :
   - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox
 
 - I gave contest in codechef and solved 3 problems
+
+### Day 14
+
+November,7,2024
+
+- solved CP Tle sheet problem ( Array Cloning Technique) : 
+  https://codeforces.com/submissions/nissthaa
+
+- watched lectures on trees: 
+ 
+ - Binary Search Tree & its Implementation || Insertion, Deletion & Searching a Node:
+   https://youtu.be/UeRUKRJvPa4?si=MHH_nxYT-5AG29Ar
+
+ - Binary Tree FAANG Interview Questions:
+   https://youtu.be/s1d8UGDCCN8?si=8yDeljV2EgRJ3s8P 
+
+   Learned about the below traversals from the lecture:
+
+  - ZigZag Traversal
+  - Boundary Traversal
+  - Vertical Order Traversal
+  - Top View
+  - Bottom View
+  - Right View
+  - Left View
+  - Diagonal Traversal 
